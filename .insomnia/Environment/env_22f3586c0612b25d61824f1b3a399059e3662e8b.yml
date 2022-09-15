@@ -1,0 +1,16 @@
+_id: env_22f3586c0612b25d61824f1b3a399059e3662e8b
+type: Environment
+parentId: wrk_81b8db296c9d4ff586caa31e6a0d5792
+modified: 1651856222194
+created: 1651831194561
+name: Base Environment
+data:
+  local: http://localhost:3000
+  dist: https://managetavie.com/api/podcast
+dataPropertyOrder:
+  "&":
+    - local
+    - dist
+color: null
+isPrivate: false
+metaSortKey: 1651831194561

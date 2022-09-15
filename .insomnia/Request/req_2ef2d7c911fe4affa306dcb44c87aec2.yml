@@ -1,0 +1,25 @@
+_id: req_2ef2d7c911fe4affa306dcb44c87aec2
+type: Request
+parentId: fld_5f3e65136fcd4a8baa79bf8696062510
+modified: 1663064843302
+created: 1651856134577
+url: "{{ _.dist }}/episode/all"
+name: episode/all
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_e709192c1eaa432fa10ed93e7537b839
+    name: x-api-key
+    value: Ca reste entre nous !
+    description: ""
+authentication: {}
+metaSortKey: -1651855975221
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

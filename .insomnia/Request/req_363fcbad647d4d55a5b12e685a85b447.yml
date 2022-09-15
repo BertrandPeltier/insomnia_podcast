@@ -1,0 +1,21 @@
+_id: req_363fcbad647d4d55a5b12e685a85b447
+type: Request
+parentId: fld_82451d87fa1c472fa76f9fb2c47e30db
+modified: 1651856230425
+created: 1651855923869
+url: "{{ _.local }}"
+name: Welcome
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1651855923969
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

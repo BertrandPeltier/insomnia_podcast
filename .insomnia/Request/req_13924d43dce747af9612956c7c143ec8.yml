@@ -1,0 +1,47 @@
+_id: req_13924d43dce747af9612956c7c143ec8
+type: Request
+parentId: fld_5f3e65136fcd4a8baa79bf8696062510
+modified: 1663249917841
+created: 1663249065852
+url: "{{ _.dist }}/admin/newEpisode"
+name: admin/newEpisode9
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: >-
+    {
+    		"title": "Se libérer de sa TO-DO list",
+    		"caption": "https://managetavie.com/ressources/podcast/episode_9/ep9-caption.png",
+    		"url": "https://managetavie.com/ressources/podcast/episode_9/ep9-Se_liberer_de_sa_TO-DO_list.mp3",
+    		"date": "2022/09/22",
+    		"detail": [
+    			"Quand la TO-DO list qui devait servir à te libérer et te soulager de ta charge mentale,",
+    			"devient un objet angoissant, voire terrifiant pour certains !",
+    			"Venir à bout de sa TO-DO semble alors le seul moyen de se sentir (un peu) serein.",
+    			"C’est la problématique que rencontre Rémi et à laquelle j'apporte des éclaircissements et des solutions dans l'épisode d'aujourd'hui.",
+    			"Dans ce 9ème épisode du podcast, tu découvriras :",
+    			"❓ Pourquoi rayer des tâches sur une liste nous fait du bien ?",
+    			"🤯 Pourquoi veut-on TOUT faire ?",
+    			"🧹 Comment se libérer de l’impact de sa TO-DO list ?",
+    			"🎯 Comment faire le tri parmi tout ce que nous pourrions faire ?"
+    		]
+    }
+parameters: []
+headers:
+  - id: pair_e709192c1eaa432fa10ed93e7537b839
+    name: x-api-key
+    value: Imagine toi...
+    description: ""
+  - name: Content-Type
+    value: application/json
+    id: pair_0edb1421dfba4c5c87266fd1267bef9f
+authentication: {}
+metaSortKey: -1651855936757
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
